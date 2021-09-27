@@ -1,5 +1,5 @@
 ### Welcome my page 👋
-I'm freshman at Bilkent University.
+I'm freshman at Bilkent University :school:.
 <!--
 **Alpsencer68/Alpsencer68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
