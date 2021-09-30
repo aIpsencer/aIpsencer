@@ -1,5 +1,9 @@
 ### Welcome my page 👋
-I'm freshman at Bilkent University :school:.
+- :writing_hand: I'm interested in Python 3
+- 🌱 I’m currently learning Java
+- :school: I'm freshman at Bilkent University :school:.
+- 💬 Here is my email ---> alpsencer68@gmail.com
+- There is the place you'll see my project and I hope you'll enjoy
 <!--
 **Alpsencer68/Alpsencer68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
