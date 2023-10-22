@@ -1,6 +1,6 @@
 ### Welcome my page 👋
 
-- :school: I'm sophomore at Bilkent University :school:.
+- :school: I'm junior at Bilkent University :school:.
 - 💬 Here is my email ---> alpsencer68@gmail.com
 - There is the place you'll see my project and I hope you'll enjoy
 <!--
